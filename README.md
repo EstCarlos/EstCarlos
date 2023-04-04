@@ -24,10 +24,15 @@
 <h4>Backend Development</h4>
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
   <img src="https://img.shields.io/badge/Mongoose-00C58E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+</p>
+
+<h4>Databases</h4>
+<p> 
+  <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
- <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101">
 </p>
 
 ### 🍃 I'm currently learning... 
@@ -35,7 +40,8 @@
 - AWS
 - Google Apps Script 
 - Typescript
-- React Native
+- Next js
+- GraphQL 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EstCarlos&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
