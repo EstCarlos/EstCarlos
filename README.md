@@ -5,7 +5,7 @@
    “role” : “Jr. Software Developer”,
    “data” :
      {
-      "Linkedin" : "https://www.linkedin.com/in/carlos-soto-537655224/",
+      "Linkedin" : "www.linkedin.com/in/carlossotodd",
      }
  }
 ```
