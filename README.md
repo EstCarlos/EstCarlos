@@ -2,7 +2,7 @@
 
 ```shell
  { “name” : “Carlos Soto De Dios”,
-   “role” : “Jr. Software Developer”,
+   “role” : “Software Developer”,
    “data” :
      {
       "Linkedin" : "www.linkedin.com/in/carlossotodd",
